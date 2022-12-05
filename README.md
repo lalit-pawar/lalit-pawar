@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lalitpawar_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lalitpawar_11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lalit-pawar-a0a487257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lalit-pawar-a0a487257" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lalit-pawar-a0a487257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lalit-pawar-a0a487257" height="30" width="40" /></a>
 <a href="https://instagram.com/lalitpawar_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lalitpawar_18" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/lalitpawar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/lalitpawar" height="30" width="40" /></a>
 </p>
